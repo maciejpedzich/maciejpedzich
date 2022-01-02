@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/images/header.jpeg" alt="Maciej Pędzich" />
+<img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/header.jpeg" alt="Maciej Pędzich" />
 
 <center>
   <h3>
