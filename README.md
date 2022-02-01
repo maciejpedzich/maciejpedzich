@@ -5,6 +5,6 @@
   <a href="https://twitter.com/MaciejPedzich">twitter</a> |
   <a href="https://maciejpedzi.ch">website</a> |
   <a href="https://weeklyovervue.com">weekly overvue</a> |
-  <a href="https://open.spotify.com/playlist/2eGkIrKZwiXy3mXQ4MTkx6?si=6021cea616a64d9a">mixtape</a> |
+  <a href="https://open.spotify.com/playlist/2eGkIrKZwiXy3mXQ4MTkx6?si=6021cea616a64d9a">minimix</a> |
   <a href="mailto:contact@maciejpedzi.ch">get in touch</a>
 </h3>
