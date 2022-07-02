@@ -4,6 +4,6 @@
   <a href="https://journal.maciejpedzi.ch">personal blog</a> |
   <a href="https://twitter.com/MaciejPedzich">twitter</a> |
   <a href="https://maciejpedzi.ch">portfolio website</a> |
-  <a href="https://open.spotify.com/playlist/2eGkIrKZwiXy3mXQ4MTkx6?si=6021cea616a64d9a">minimix</a> |
+  <a href="https://open.spotify.com/playlist/6JPMYu8YxGHBQ2Qv52JRaj?si=6cb9bfb54ca140e5">mixtape</a> |
   <a href="mailto:contact@maciejpedzi.ch">get in touch</a>
 </h3>
