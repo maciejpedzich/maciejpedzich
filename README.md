@@ -3,6 +3,8 @@
 </p>
 <h2 align="center">skills</h2>
 <h3 align="center">
+  <a href="https://tailwindcss.com">tailwind</a> |
+  <a href="https://www.typescriptlang.org">typescript</a> |
   <a href="https://vuejs.org">vue</a> |
   <a href="https://alpinejs.dev">alpine</a> |
   <a href="https://nuxt.com">nuxt</a> |
