@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1404134481615802385/1665003028/1500x500" alt="Banner image" width="800" />
+  <img src="https://maciejpedzi.ch/banner.png" alt="Banner image" width="800" />
 </p>
 <h2 align="center">skills</h2>
 <h3 align="center">
