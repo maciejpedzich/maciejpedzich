@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://maciejpedzi.ch/banner.png" alt="Banner image" width="800" />
+  <img src="https://maciejpedzi.ch/banner.png" alt="Banner image" />
 </p>
 <h2 align="center">skills</h2>
 <h3 align="center">
